@@ -1,0 +1,5 @@
+/**
+ * Settings
+ * AI Postal System
+ */
+
