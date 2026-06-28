@@ -1,3 +1,4 @@
-# AI Postal System
+# AI POSTAL SYSTEM
 
-Starter project for AI-assisted postal office operations.
+## Mục tiêu
+Hệ thống AI hỗ trợ điều hành bưu cục.

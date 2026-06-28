@@ -1,0 +1,1 @@
+function logInfo(msg){Logger.log(msg);}

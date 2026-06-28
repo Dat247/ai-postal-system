@@ -1,0 +1,1 @@
+function initializeSystem(){SpreadsheetApp.getUi().alert('Sprint 1 - Đang phát triển');}

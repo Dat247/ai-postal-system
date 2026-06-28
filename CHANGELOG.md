@@ -1,4 +1,4 @@
-# Changelog
+# CHANGELOG
 
 ## v0.1.0
-- Initial scaffold
+- Khởi tạo cấu trúc dự án

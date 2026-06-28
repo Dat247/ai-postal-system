@@ -1,0 +1,1 @@
+function onOpen(){SpreadsheetApp.getUi().createMenu('AI POSTAL').addItem('Khởi tạo hệ thống','initializeSystem').addToUi();}
